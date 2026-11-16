@@ -1,0 +1,8 @@
+# robots.txt — ZEN MUSIC SYSTEM
+# https://zenmusicsystem.github.io/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://zenmusicsystem.github.io/sitemap.xml
