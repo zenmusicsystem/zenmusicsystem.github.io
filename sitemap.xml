@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://zenmusicsystem.github.io/</loc>
     <lastmod>2026-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="fr" href="https://zenmusicsystem.github.io/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zenmusicsystem.github.io/"/>
+    <image:image>
+      <image:loc>https://zenmusicsystem.github.io/images/playlist-sommeil.jpg</image:loc>
+      <image:title>Sommeil Profond — sons binauraux Delta, musique 432 Hz</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://zenmusicsystem.github.io/images/playlist-focus.jpg</image:loc>
+      <image:title>Focus Ultime — ondes Gamma, concentration mentale</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://zenmusicsystem.github.io/images/playlist-yoga.jpg</image:loc>
+      <image:title>Yoga &amp; Qi Gong — fréquences Theta en 432 Hz</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://zenmusicsystem.github.io/images/playlist-chansons.jpg</image:loc>
+      <image:title>Chansons Positives — chansons françaises à paroles positives</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://zenmusicsystem.github.io/images/playlist-nature.jpg</image:loc>
+      <image:title>Nature Apaisante — sons authentiques de la nature</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://zenmusicsystem.github.io/images/playlist-sport.jpg</image:loc>
+      <image:title>Performance Sportive — ondes Gamma, course à pied</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://zenmusicsystem.github.io/images/playlist-guerison.jpg</image:loc>
+      <image:title>Musique Guérison — percussions rituelles, voyage intérieur</image:title>
+    </image:image>
   </url>
 </urlset>
