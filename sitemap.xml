@@ -9,19 +9,19 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zenmusicsystem.github.io/"/>
     <image:image>
       <image:loc>https://zenmusicsystem.github.io/images/playlist-sommeil.jpg</image:loc>
-      <image:title>Sommeil Profond — sons binauraux Delta, musique 432 Hz</image:title>
+      <image:title>Sommeil Profond — fréquences Delta, podcast ZEN MUSIC SYSTEM</image:title>
     </image:image>
     <image:image>
       <image:loc>https://zenmusicsystem.github.io/images/playlist-focus.jpg</image:loc>
-      <image:title>Focus Ultime — ondes Gamma, concentration mentale</image:title>
+      <image:title>Focus Ultime — ondes Gamma, concentration</image:title>
     </image:image>
     <image:image>
       <image:loc>https://zenmusicsystem.github.io/images/playlist-yoga.jpg</image:loc>
-      <image:title>Yoga &amp; Qi Gong — fréquences Theta en 432 Hz</image:title>
+      <image:title>Tai Chi &amp; Qi Gong — harmonie, équilibre, sérénité</image:title>
     </image:image>
     <image:image>
       <image:loc>https://zenmusicsystem.github.io/images/playlist-chansons.jpg</image:loc>
-      <image:title>Chansons Positives — chansons françaises à paroles positives</image:title>
+      <image:title>Mantras Positifs — chansons françaises positives</image:title>
     </image:image>
     <image:image>
       <image:loc>https://zenmusicsystem.github.io/images/playlist-nature.jpg</image:loc>
@@ -29,11 +29,15 @@
     </image:image>
     <image:image>
       <image:loc>https://zenmusicsystem.github.io/images/playlist-sport.jpg</image:loc>
-      <image:title>Performance Sportive — ondes Gamma, course à pied</image:title>
+      <image:title>Performance Sportive — préparation mentale, effort</image:title>
     </image:image>
     <image:image>
       <image:loc>https://zenmusicsystem.github.io/images/playlist-guerison.jpg</image:loc>
-      <image:title>Musique Guérison — percussions rituelles, voyage intérieur</image:title>
+      <image:title>Musique Guérison — se reconnecter, se ressourcer</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://zenmusicsystem.github.io/images/og-image.jpg</image:loc>
+      <image:title>ZEN MUSIC SYSTEM — musique 432 Hz, binaural et sons de la nature</image:title>
     </image:image>
   </url>
 </urlset>
